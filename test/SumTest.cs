@@ -11,7 +11,7 @@ namespace test
 
         public static int Sum(int i, int j)
         {
-            return i + i +5;
+            return i + j;
         }
     }
 }
